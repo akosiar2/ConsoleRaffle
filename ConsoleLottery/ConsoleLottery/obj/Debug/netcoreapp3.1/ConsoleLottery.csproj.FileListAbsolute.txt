@@ -1,0 +1,11 @@
+E:\WORKING\ConsoleLottery\ConsoleLottery\bin\Debug\netcoreapp3.1\ConsoleLottery.exe
+E:\WORKING\ConsoleLottery\ConsoleLottery\bin\Debug\netcoreapp3.1\ConsoleLottery.deps.json
+E:\WORKING\ConsoleLottery\ConsoleLottery\bin\Debug\netcoreapp3.1\ConsoleLottery.runtimeconfig.json
+E:\WORKING\ConsoleLottery\ConsoleLottery\bin\Debug\netcoreapp3.1\ConsoleLottery.runtimeconfig.dev.json
+E:\WORKING\ConsoleLottery\ConsoleLottery\bin\Debug\netcoreapp3.1\ConsoleLottery.dll
+E:\WORKING\ConsoleLottery\ConsoleLottery\bin\Debug\netcoreapp3.1\ConsoleLottery.pdb
+E:\WORKING\ConsoleLottery\ConsoleLottery\obj\Debug\netcoreapp3.1\ConsoleLottery.csprojAssemblyReference.cache
+E:\WORKING\ConsoleLottery\ConsoleLottery\obj\Debug\netcoreapp3.1\ConsoleLottery.AssemblyInfoInputs.cache
+E:\WORKING\ConsoleLottery\ConsoleLottery\obj\Debug\netcoreapp3.1\ConsoleLottery.AssemblyInfo.cs
+E:\WORKING\ConsoleLottery\ConsoleLottery\obj\Debug\netcoreapp3.1\ConsoleLottery.dll
+E:\WORKING\ConsoleLottery\ConsoleLottery\obj\Debug\netcoreapp3.1\ConsoleLottery.pdb
